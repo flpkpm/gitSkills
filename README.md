@@ -12,4 +12,15 @@ Creating a new branch is quick & simple.
 Creating the branch featrue1
 
 Creating the branch featrue1 isHave Error
+this is use vi order to change readme.txt
+Test git stash to op bug with dev
+:wq
 
+
+
+	:wqsd 
+
+
+
+
+dfsaf sadfsa士大夫:dsafjldjflskkjds
