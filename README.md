@@ -14,5 +14,5 @@ I'm just  to handler the new Bug
 
 Creating the branch featrue1 isHave Error
 
-I`m the other partner to change this file
-
+I`m the other partner to change this file我可以接着
+修改文件吗？？？？？？？？？？？？？？？？？？？:qw
