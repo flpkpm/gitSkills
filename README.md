@@ -1,4 +1,4 @@
-# gitSkills
+ gitSkills
 skills Test
 
 
@@ -14,5 +14,5 @@ I'm just  to handler the new Bug
 
 Creating the branch featrue1 isHave Error
 
-
+I`m the other partner to change this file
 
