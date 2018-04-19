@@ -16,3 +16,7 @@ Creating the branch featrue1 isHave Error
 
 I`m the other partner to change this file
 我是从t420多来的小朋友：
+
+I`m the other partner to change this file我可以接着
+修改文件吗？？？？？？？？？？？？？？？？？？？:qw
+
