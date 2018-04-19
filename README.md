@@ -25,3 +25,5 @@ I`m the other partner to change this file我可以接着
 the new test to conflict 
 
 test2 from v370
+
+a new test 
