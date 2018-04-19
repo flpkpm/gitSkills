@@ -13,6 +13,10 @@ Creating the branch featrue1
 I'm just  to handler the new Bug
 
 Creating the branch featrue1 isHave Error
+this is use vi order to change readme.txt
+Test git stash to op bug with dev
+:wq
 
 
+dfsaf sadfsa士大夫:dsafjldjflskkjds
 
